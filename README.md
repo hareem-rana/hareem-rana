@@ -13,4 +13,5 @@ I learn primarily by building practical systems and solving problems along the w
 ---
 
 ### Connect 
-[LinkedIn](https://linkedin.com/in/hareem-rana-0961a0379)
+- [LinkedIn](https://linkedin.com/in/hareem-rana-0961a0379)
+- [Email](mailto:hareem.a.rana@gmail.com)
