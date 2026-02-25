@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**hareem-rana/hareem-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a sophomore studying Computer Science at FAST NUCES Lahore. I focus on building scalable backend systems, with a strong interest in system design and AI integration.
+I learn primarily by building practical systems and solving problems along the way.
 
-Here are some ideas to get you started:
+---
+### Projects
+- **AI Resume Processing Pipeline** — asynchronous backend system with OCR fallback and AI-based resume parsing
+- **Khaata** — full-stack subscription and recurring expense tracking system 
+- **NETSCONNECT** — C++ social network application built using OOP principles and Raylib GUI  
+- **C++ Battleship Game** — graphics-based game with an intelligent computer opponent
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect 
+[LinkedIn](https://linkedin.com/in/hareem-rana-0961a0379)
