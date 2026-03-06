@@ -19,16 +19,19 @@ I learn primarily by building practical systems and solving problems along the w
 - **C++ Battleship Game** — graphics-based game with an intelligent computer opponent
 
 ---
-### Connect 
-- [LinkedIn](https://linkedin.com/in/hareem-rana-0961a0379)
-- [Email](mailto:hareem.a.rana@gmail.com)
+ <div id="badges" align="center">
+    <a href="www.linkedin.com/in/hareem-rana-0961a0379"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge"></a>
+    <a href="mailto:hareem.a.rana@gmail.com"><img src="https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </div>
 
-
----
+  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hareem-rana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hareem-rana&label=Profile%20views&color=0e75b6&style=flat" alt="hareem-rana" /> </p>
 </div>
+
+
+
 
 
