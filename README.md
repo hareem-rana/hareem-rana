@@ -20,7 +20,7 @@ I learn primarily by building practical systems and solving problems along the w
 
 ---
  <div id="badges" align="center">
-    <a href="www.linkedin.com/in/hareem-rana-0961a0379"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge"></a>
+    <a href="https://www.linkedin.com/in/hareem-rana-0961a0379"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge"></a>
     <a href="mailto:hareem.a.rana@gmail.com"><img src="https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
 
